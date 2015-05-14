@@ -4,7 +4,7 @@ html {font-size: 1em;
 body {
   background-color: #660066;
   color: #CCFF99;
-}
+} 
 
 p {margin-bottom: 1.3em;}
 
@@ -146,7 +146,7 @@ a:hover {
 
 input:checked + .tile-reveal .game-icon {
   visibility: visible;
-}  
+}
 
 .tile-reveal {
   background-color: #833083;
